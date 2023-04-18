@@ -2,7 +2,7 @@
  * @Autor: violet apricity ( Zhuangpx )
  * @Date: 2023-04-18 01:09:28
  * @LastEditors: violet apricity ( Zhuangpx )
- * @LastEditTime: 2023-04-18 12:24:16
+ * @LastEditTime: 2023-04-18 19:44:00
  * @FilePath: \ThreadPool_cpp14\README.md
  * @Description:  Zhuangpx : Violet && Apricity:/ The warmth of the sun in the winter /
 -->
@@ -77,7 +77,7 @@ void operator()()
 - 使用C++标准库中的线程+锁+条件变量实现并发
 - 使用C++14标准库提供的 `std::bind`，`std::forward`，`std::future`，`decltype` 等新特性。
 
-## Useful link && Thans to && References
+## Useful link && Thanks to && References
 
 [@mtrebi thread-pool](https://github.com/mtrebi/thread-pool)
 
